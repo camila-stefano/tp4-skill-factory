@@ -33,4 +33,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Install Firebase
 
-See the section about [deployment](https://firebase.google.com/docs/web/setup?authuser=0&hl=es) for more information.
+See the section about [Firebase](https://firebase.google.com/docs/web/setup?authuser=0&hl=es) for more information.
