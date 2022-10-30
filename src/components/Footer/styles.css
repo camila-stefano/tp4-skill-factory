@@ -1,0 +1,23 @@
+.footer__container {
+  display: flex;
+  align-items: center;
+}
+
+.footer__container__firstColumn,
+.footer__container__secondColumn {
+  display: flex;
+  flex: 5;
+  justify-content: center;
+}
+
+.footer__container__firstColumn {
+  justify-content: start;
+}
+
+.footer__container__secondColumn {
+  justify-content: end;
+}
+
+.footer__container__secondColumn a {
+  padding: 1rem;
+}
