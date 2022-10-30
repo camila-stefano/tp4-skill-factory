@@ -34,3 +34,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Install Firebase
 
 See the section about [Firebase](https://firebase.google.com/docs/web/setup?authuser=0&hl=es) for more information.
+
+### `npm install react-router-dom@6`
+
+Install React Router
+
+See the section about [React Router](https://reactrouter.com/en/v6.3.0/getting-started/installation) for more information.
